@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43008e03-a140-4931-94cc-f14957fb4e7d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/Controller/LogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/Controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/dto/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/entity/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/entity/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/exception/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/src/main/java/com/assessment/userRegistration/exception/ApiException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/target/classes/com/assessment/userRegistration/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/target/classes/com/assessment/userRegistration/Controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/target/classes/com/assessment/userRegistration/dto/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/target/classes/com/assessment/userRegistration/dto/UserDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userRegistration/target/classes/com/assessment/userRegistration/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/userRegistration/target/classes/com/assessment/userRegistration/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
