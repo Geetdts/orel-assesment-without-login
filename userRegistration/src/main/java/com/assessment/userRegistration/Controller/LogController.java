@@ -2,14 +2,12 @@ package com.assessment.userRegistration.Controller;
 
 import com.assessment.userRegistration.dto.LogDTO;
 import com.assessment.userRegistration.service.LogService;
-import com.assessment.userRegistration.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.time.LocalDate;
 import java.util.Date;
-
+//Save error log if needed
 @RestController
 @CrossOrigin
 public class LogController {

@@ -13,6 +13,7 @@ import java.util.Date;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
+//Log Entity Class
 public class Log {
     @Id
     private int id;

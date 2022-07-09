@@ -12,10 +12,11 @@ import java.util.Date;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
+//User Entity Class
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
-    private  long id;
+    private  int id;
     @NonNull
     private String mobile_no;
     @NonNull

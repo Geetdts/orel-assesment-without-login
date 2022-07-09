@@ -1,7 +1,6 @@
 package com.assessment.userRegistration.Controller;
 
 import com.assessment.userRegistration.dto.UserDTO;
-import com.assessment.userRegistration.exception.ApiRequestException;
 import com.assessment.userRegistration.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -14,7 +13,6 @@ import java.util.List;
 public class UserController {
     @Autowired
     private UserService userService;
-
 
     //get all users
     @GetMapping("/getUsers")
